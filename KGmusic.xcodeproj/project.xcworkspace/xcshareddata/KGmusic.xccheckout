@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>922264C9-F910-4360-AC7F-1F70742275A3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>KGmusic</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D487E981CC1AEF34E33F17B6C2E75BA883433BBB</key>
+		<string>https://github.com/zzx2015/KGmusic.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>KGmusic.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D487E981CC1AEF34E33F17B6C2E75BA883433BBB</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/zzx2015/KGmusic.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D487E981CC1AEF34E33F17B6C2E75BA883433BBB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D487E981CC1AEF34E33F17B6C2E75BA883433BBB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>KGmusic</string>
+		</dict>
+	</array>
+</dict>
+</plist>
